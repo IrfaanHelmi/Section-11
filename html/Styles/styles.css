@@ -1,0 +1,26 @@
+html {
+  background-color: #e18df0
+}
+
+label {
+      color: blue;
+}
+
+input {
+     border-style: dashed;
+     border-color: red;
+}
+textarea {
+  border-style: dashed;
+  border-color: red;
+  border-width: thick;
+}
+
+body {
+border: 1px solid blue;
+
+}
+
+p {
+color: red;
+}
